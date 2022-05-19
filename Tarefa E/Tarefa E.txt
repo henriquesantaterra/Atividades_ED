@@ -1,0 +1,4 @@
+Instruções:
+Para a classe que implementa listas dinâmicas, desenvolva os métodos: substituir, listar, tamanho, retornar, localizar e localizarUltimo.
+
+As instruções estão no arquivo Lista.cpp

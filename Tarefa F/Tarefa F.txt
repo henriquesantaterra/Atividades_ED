@@ -1,0 +1,11 @@
+Instruções:
+Implemente métodos recursivos que:
+- Receba um valor N e retorne os valores de 1 até N em ordem crescente;
+- Receba um valor N e efetue o cálculo de seu fatorial;
+- Receba um valor N e retorne os valores de N até 1 (decrescente);
+- Receba 2 valores e retorne os valores entre eles em ordem crescente;
+- Receba 2 valores e retorne os valores entre eles em ordem decrescente;
+- Receba um valor N par e retorne todos os números pares entre 0 e N em ordem crescente;
+
+Os valores devem ser exibidos no formato:
+[1][2][3][4][5]
